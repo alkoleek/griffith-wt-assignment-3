@@ -1,0 +1,16 @@
+{
+  "name": "express-server",
+  "author": "Maxime DROUIN",
+  "student-number": 3008951,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.9.7",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "cors": "^2.8.5"
+  }
+}
